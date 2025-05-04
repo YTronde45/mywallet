@@ -1,0 +1,35 @@
+{
+"owner_address": "TR3e7bvoarT1dMtdnzyBVF8tJmfoorEU9J",
+  "account_name": "0xA5608384422612C0ADC7547FD45128EBBD1F6856",
+"owner_address": "TR3e7bvoarT1dMtdnzyBVF8tJmfoorEU9J",
+  "actives": [
+    {
+      "type": 2,
+      "permission_name": "active0",
+      "threshold": 2,
+      "operations": "7fff1fc0037e0000000000000000000000000000000000000000000000000000",
+      "keys": [
+        {
+          "address": "TZ4UXDV5ZhNW7fb2AMSbgfAEZ7hWsnYS2g",
+          "weight": 1
+        },
+        {
+          "address": "TFfJEwDFp5adstGi35MrtQiJ6f1FWgQPhd",
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "owner": {
+    "type": 0,
+    "permission_name": "owner",
+    "threshold": 1,
+    "keys": [
+      {
+        "address": "TFfJEwDFp5adstGi35MrtQiJ6f1FWgQPhd",
+      },
+  "block_identifier": {
+    "hash": "61e252824ef7e33afab7e744ad6aab3eb2e71108d28aac3b1b7a72778c58f3ec",
+    "number": 70781038
+  },    "weight": 1
+}
